@@ -44,7 +44,7 @@ Print:
 | Language | pypy3 |
 | Score | 10.0 |
 | Testcases | 2/2 passed |
-| Submission ID | 472682423 |
+| Submission ID | 472682430 |
 
 ---
 
